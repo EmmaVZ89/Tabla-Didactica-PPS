@@ -46,7 +46,7 @@
  <hr>
  <h2 align="center">SPLASH SCREEN</h2>
  <p align="center">
-   <img width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/1%20splash.gif">
+   <img width=200 src="https://github.com/EmmaVZ89/Tabla-Didactica-PPS/blob/main/readme/1%20splash.gif">
  </p>
  <hr>
  
@@ -54,36 +54,45 @@
  <h2 align="center">INICIO RÁPIDO</h2>
  <p align="center">Se pueden seleccionar 3 diferentes tipo de usuarios para probar la aplicación</p>
  <p align="center">
-   <img width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/2%20Iniciio%20rapido.gif">
+   <img width=200 src="https://github.com/EmmaVZ89/Tabla-Didactica-PPS/blob/main/readme/2%20inicio%20rapido.gif">
  </p>
  <hr>
  
  <hr>
- <h2 align="center">VOTAR FOTO</h2>
- <p align="center">Se puede dar o quitar el voto a una foto.</p>
+ <h2 align="center">CAMBIO DE IDIOMA</h2>
+ <p align="center">Es posible elegir entre español, portugues e inglés.</p>
  <p align="center">
-   <img width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/3%20Dar%20like.gif">
+   <img width=200 src="https://github.com/EmmaVZ89/Tabla-Didactica-PPS/blob/main/readme/3%20idioma.gif">
  </p>
  <hr>
  
  <hr>
- <h2 align="center">CHART</h2>
- <p align="center">Visualización de cantidad de votos por foto</p>
+ <h2 align="center">CAMBIO DE TEMA</h2>
+ <p align="center">Es posible elegir entre animales, números y colores.</p>
  <p align="center">
-   <img width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/4%20Grafico%20CL.gif">
+   <img width=200 src="https://github.com/EmmaVZ89/Tabla-Didactica-PPS/blob/main/readme/4%20tema.gif">
+ </p>
+ <hr>
+ 
+ <hr>
+ <h2 align="center">BOTONES</h2>
+ <p align="center">Al presionar los botones se reproducirá el sonido correspondiente en el idioma actual.</p>
+ <p align="center">
+   <img width=200 src="https://github.com/EmmaVZ89/Tabla-Didactica-PPS/blob/main/readme/5%20botones.gif">
+ </p>
+ <hr>
+ 
+ <hr>
+ <h2 align="center">TEMPLATE HORIZONTAL</h2>
+ <p align="center">Al poner el dispositivo en forma horizontal el contenido se acomoda a la pantalla.</p>
+ <p align="center">
+   <img width=200 src="https://github.com/EmmaVZ89/Tabla-Didactica-PPS/blob/main/readme/6%20horizontal.gif">
  </p>
  <hr>
  
  <hr>
  <h2 align="center">VISTAS</h2>
- <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/5%20login.png">
- <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/6%20home.png">
- <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/7%20menu%20principal%20CL.png">
- <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/8%20Cosas%20Lindas.png">
- <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/9%20Chart%20CL.png">
- <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/10%20Listado%20CL.png">
- <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/11%20menu%20principal%20CF.png">
- <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/12%20Cosas%20Feas.png">
- <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/13%20Chart%20CF.png">
- <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/14%20Listado%20CF.png">
- <hr>
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Tabla-Didactica-PPS/blob/main/readme/login.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Tabla-Didactica-PPS/blob/main/readme/home-a.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Tabla-Didactica-PPS/blob/main/readme/home-n.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Tabla-Didactica-PPS/blob/main/readme/home-c.png">
